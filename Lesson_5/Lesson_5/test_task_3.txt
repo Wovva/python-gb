@@ -1,0 +1,10 @@
+Ivanov 50000
+Petrov 27000
+Sidorov 65000
+Gorbunov 45000
+Baskov 17000
+Royzman 120500
+Mihalkov 13890
+Nabiulina 13890
+Peskov 13890
+Kirkorov 666000
